@@ -8,6 +8,6 @@ Specifically, in class we covered how array indexing operators can work, how to 
 
 Files:
 
-matrix2x2.* includes the matrix class.  
-vec2.* includes the 2-dimensional vector class declaration and definition.  
-main.cpp includes some code that test's out the features of matrix2x2.
+* matrix2x2.* includes the matrix class.  
+* vec2.* includes the 2-dimensional vector class declaration and definition.  
+* main.cpp includes some code that test's out the features of matrix2x2.
